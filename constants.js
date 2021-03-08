@@ -1,0 +1,1 @@
+export const BOT = "This is how to use this bot:\n!audience [type] [name]\n\nExamples:\n!audience game warmup\n!audience suggestion location help";

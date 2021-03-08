@@ -1,0 +1,467 @@
+[
+    {
+      "timestamp": "2/22/2021 18:51:35",
+      "type": "Feeling",
+      "suggestion": "On Fire"
+    },
+    {
+      "timestamp": "2/22/2021 18:53:04",
+      "type": "Location",
+      "suggestion": "Church"
+    },
+    {
+      "timestamp": "2/22/2021 18:53:14",
+      "type": "Something to do",
+      "suggestion": "Skiing"
+    },
+    {
+      "timestamp": "2/22/2021 18:53:28",
+      "type": "Object",
+      "suggestion": "Candlestick"
+    },
+    {
+      "timestamp": "2/22/2021 18:53:35",
+      "type": "Object",
+      "suggestion": "Horseshoe"
+    },
+    {
+      "timestamp": "2/22/2021 18:53:40",
+      "type": "Feeling",
+      "suggestion": "Discombobulate"
+    },
+    {
+      "timestamp": "2/22/2021 18:53:52",
+      "type": "Object",
+      "suggestion": "Breadbox"
+    },
+    {
+      "timestamp": "2/22/2021 18:54:01",
+      "type": "Object",
+      "suggestion": "Turkey Baster"
+    },
+    {
+      "timestamp": "2/22/2021 18:54:26",
+      "type": "Person",
+      "suggestion": "Lawyer"
+    },
+    {
+      "timestamp": "2/22/2021 18:54:33",
+      "type": "Person",
+      "suggestion": "Doctor"
+    },
+    {
+      "timestamp": "2/22/2021 18:54:42",
+      "type": "Person",
+      "suggestion": "Mechanic"
+    },
+    {
+      "timestamp": "2/22/2021 18:54:51",
+      "type": "Person",
+      "suggestion": "Used Car Salesman"
+    },
+    {
+      "timestamp": "2/22/2021 18:54:59",
+      "type": "Something to do",
+      "suggestion": "Flee"
+    },
+    {
+      "timestamp": "2/22/2021 18:55:12",
+      "type": "Person",
+      "suggestion": "Timbletizzy the 4th"
+    },
+    {
+      "timestamp": "2/22/2021 18:55:28",
+      "type": "Location",
+      "suggestion": "The great and powerful hoedown"
+    },
+    {
+      "timestamp": "2/22/2021 18:56:04",
+      "type": "Something to do",
+      "suggestion": "The parking ticket heist"
+    },
+    {
+      "timestamp": "2/22/2021 18:56:23",
+      "type": "Object",
+      "suggestion": "The smallest kiln"
+    },
+    {
+      "timestamp": "2/22/2021 18:56:34",
+      "type": "Object",
+      "suggestion": "One lone penny"
+    },
+    {
+      "timestamp": "2/22/2021 18:57:07",
+      "type": "Something to do",
+      "suggestion": "Jack's classic barbeque cookoff"
+    },
+    {
+      "timestamp": "2/22/2021 18:57:51",
+      "type": "Location",
+      "suggestion": "The wild wild east"
+    },
+    {
+      "timestamp": "2/22/2021 18:58:14",
+      "type": "Person",
+      "suggestion": "Pin-Needle Jones"
+    },
+    {
+      "timestamp": "2/22/2021 18:59:30",
+      "type": "Feeling",
+      "suggestion": "The overwhelming sense of guilt"
+    },
+    {
+      "timestamp": "2/22/2021 18:59:48",
+      "type": "Something to do",
+      "suggestion": "Bowling in the bathroom"
+    },
+    {
+      "timestamp": "2/22/2021 19:02:31",
+      "type": "Person",
+      "suggestion": "Genie Bombini"
+    },
+    {
+      "timestamp": "2/22/2021 19:02:45",
+      "type": "Location",
+      "suggestion": "Uncle Herb's"
+    },
+    {
+      "timestamp": "2/22/2021 19:03:02",
+      "type": "Something to do",
+      "suggestion": "Eating copious amounts of peanut butter so you struggle to talk"
+    },
+    {
+      "timestamp": "2/22/2021 19:03:31",
+      "type": "Something to do",
+      "suggestion": "extreme car repair"
+    },
+    {
+      "timestamp": "2/22/2021 19:03:47",
+      "type": "Feeling",
+      "suggestion": "J U M B O"
+    },
+    {
+      "timestamp": "2/22/2021 19:05:21",
+      "type": "Location",
+      "suggestion": "Cuzin' Stuzzy's"
+    },
+    {
+      "timestamp": "2/22/2021 19:05:32",
+      "type": "Feeling",
+      "suggestion": "Tomato"
+    },
+    {
+      "timestamp": "2/22/2021 19:08:02",
+      "type": "Person",
+      "suggestion": "Cuzin' Stuzzy"
+    },
+    {
+      "timestamp": "2/22/2021 19:08:17",
+      "type": "Location",
+      "suggestion": "The Wombat Cave"
+    },
+    {
+      "timestamp": "2/22/2021 19:08:34",
+      "type": "Object",
+      "suggestion": "A Microphone"
+    },
+    {
+      "timestamp": "2/22/2021 19:08:46",
+      "type": "Feeling",
+      "suggestion": "Tough"
+    },
+    {
+      "timestamp": "2/22/2021 19:08:58",
+      "type": "Something to do",
+      "suggestion": "Umbrella Dancing"
+    },
+    {
+      "timestamp": "2/22/2021 19:10:33",
+      "type": "Feeling",
+      "suggestion": "Hunger"
+    },
+    {
+      "timestamp": "2/22/2021 19:12:03",
+      "type": "Person",
+      "suggestion": "Yakman"
+    },
+    {
+      "timestamp": "2/22/2021 19:12:17",
+      "type": "Feeling",
+      "suggestion": "Suppressed Love"
+    },
+    {
+      "timestamp": "2/22/2021 19:12:49",
+      "type": "Object",
+      "suggestion": "The Fourbear's Blade"
+    },
+    {
+      "timestamp": "2/22/2021 19:13:05",
+      "type": "Person",
+      "suggestion": "Kid Humble"
+    },
+    {
+      "timestamp": "2/22/2021 19:13:22",
+      "type": "Location",
+      "suggestion": "Tumbleweed Tavern"
+    },
+    {
+      "timestamp": "2/22/2021 19:13:46",
+      "type": "Object",
+      "suggestion": "5 Q-Tips"
+    },
+    {
+      "timestamp": "2/22/2021 19:14:43",
+      "type": "Person",
+      "suggestion": "Jim."
+    },
+    {
+      "timestamp": "2/22/2021 19:14:54",
+      "type": "Feeling",
+      "suggestion": "Wonder and Awe"
+    },
+    {
+      "timestamp": "2/22/2021 19:19:41",
+      "type": "Person",
+      "suggestion": "Chef Davis"
+    },
+    {
+      "timestamp": "2/22/2021 19:20:02",
+      "type": "Something to do",
+      "suggestion": "Eat Puddin'"
+    },
+    {
+      "timestamp": "2/22/2021 19:19:52",
+      "type": "Location",
+      "suggestion": "Jello Lake"
+    },
+    {
+      "timestamp": "2/22/2021 19:22:33",
+      "type": "Object",
+      "suggestion": "Red Solo Cup"
+    },
+    {
+      "timestamp": "2/22/2021 19:22:48",
+      "type": "Person",
+      "suggestion": "Fiora, the Fairy Queen"
+    },
+    {
+      "timestamp": "2/22/2021 19:23:10",
+      "type": "Feeling",
+      "suggestion": "Opaque"
+    },
+    {
+      "timestamp": "2/22/2021 19:23:50",
+      "type": "Something to do",
+      "suggestion": "Finding your meaning"
+    },
+    {
+      "timestamp": "2/22/2021 19:24:05",
+      "type": "Something to do",
+      "suggestion": "Eating cactus"
+    },
+    {
+      "timestamp": "2/22/2021 19:24:44",
+      "type": "Person",
+      "suggestion": "Gino Dango"
+    },
+    {
+      "timestamp": "2/22/2021 19:25:01",
+      "type": "Location",
+      "suggestion": "Location 4, Arizona"
+    },
+    {
+      "timestamp": "2/22/2021 19:25:47",
+      "type": "Object",
+      "suggestion": "Intelligent Lizard"
+    },
+    {
+      "timestamp": "2/22/2021 19:26:07",
+      "type": "Feeling",
+      "suggestion": "Your inner danger"
+    },
+    {
+      "timestamp": "2/22/2021 19:26:35",
+      "type": "Something to do",
+      "suggestion": "Pimp your ride"
+    },
+    {
+      "timestamp": "2/22/2021 19:26:48",
+      "type": "Feeling",
+      "suggestion": "Love and War"
+    },
+    {
+      "timestamp": "2/22/2021 19:27:07",
+      "type": "Location",
+      "suggestion": "Frank's Garage"
+    },
+    {
+      "timestamp": "2/22/2021 19:27:25",
+      "type": "Something to do",
+      "suggestion": "Fixing the horse"
+    },
+    {
+      "timestamp": "2/22/2021 19:27:51",
+      "type": "Object",
+      "suggestion": "3rd generation blender"
+    },
+    {
+      "timestamp": "2/22/2021 19:28:13",
+      "type": "Person",
+      "suggestion": "Juniper Solemn"
+    },
+    {
+      "timestamp": "2/22/2021 19:28:36",
+      "type": "Person",
+      "suggestion": "The Helmsmasher"
+    },
+    {
+      "timestamp": "2/22/2021 19:29:04",
+      "type": "Feeling",
+      "suggestion": "Inexplicably Satisfactory"
+    },
+    {
+      "timestamp": "2/22/2021 19:30:46",
+      "type": "Feeling",
+      "suggestion": "Pure unadulterated anger"
+    },
+    {
+      "timestamp": "2/22/2021 21:06:57",
+      "type": "Feeling",
+      "suggestion": "Icky"
+    },
+    {
+      "timestamp": "2/22/2021 21:07:26",
+      "type": "Location",
+      "suggestion": "The bottom of a pit"
+    },
+    {
+      "timestamp": "2/22/2021 21:07:57",
+      "type": "Object",
+      "suggestion": "Sticky toaster"
+    },
+    {
+      "timestamp": "2/22/2021 21:08:05",
+      "type": "Location",
+      "suggestion": "Pirate ship"
+    },
+    {
+      "timestamp": "2/22/2021 21:08:23",
+      "type": "Location",
+      "suggestion": "Castle"
+    },
+    {
+      "timestamp": "2/22/2021 21:09:26",
+      "type": "Location",
+      "suggestion": "Parking ramp"
+    },
+    {
+      "timestamp": "2/22/2021 21:09:34",
+      "type": "Object",
+      "suggestion": "Bees"
+    },
+    {
+      "timestamp": "2/22/2021 21:09:44",
+      "type": "Person",
+      "suggestion": "Mickey mouse"
+    },
+    {
+      "timestamp": "2/22/2021 21:09:51",
+      "type": "Person",
+      "suggestion": "Vanna white"
+    },
+    {
+      "timestamp": "2/22/2021 21:10:06",
+      "type": "Person",
+      "suggestion": "James hoeffler"
+    },
+    {
+      "timestamp": "2/22/2021 21:10:31",
+      "type": "Person",
+      "suggestion": "The ceo of waffles"
+    },
+    {
+      "timestamp": "2/22/2021 21:10:40",
+      "type": "Feeling",
+      "suggestion": "Disgruntled"
+    },
+    {
+      "timestamp": "2/22/2021 21:10:58",
+      "type": "Feeling",
+      "suggestion": "Godly"
+    },
+    {
+      "timestamp": "2/22/2021 21:11:07",
+      "type": "Feeling",
+      "suggestion": "Melancholy"
+    },
+    {
+      "timestamp": "2/22/2021 21:11:19",
+      "type": "Feeling",
+      "suggestion": "Ecstatic"
+    },
+    {
+      "timestamp": "2/22/2021 21:11:25",
+      "type": "Feeling",
+      "suggestion": "Anxious"
+    },
+    {
+      "timestamp": "2/22/2021 21:11:42",
+      "type": "Feeling",
+      "suggestion": "Petrified"
+    },
+    {
+      "timestamp": "2/22/2021 21:11:50",
+      "type": "Something to do",
+      "suggestion": "Extreme skiing"
+    },
+    {
+      "timestamp": "2/22/2021 21:12:01",
+      "type": "Something to do",
+      "suggestion": "Skateboard"
+    },
+    {
+      "timestamp": "2/22/2021 21:12:32",
+      "type": "Something to do",
+      "suggestion": "Worm walking"
+    },
+    {
+      "timestamp": "2/22/2021 21:12:39",
+      "type": "Object",
+      "suggestion": "Penguin"
+    },
+    {
+      "timestamp": "2/22/2021 21:12:44",
+      "type": "Object",
+      "suggestion": "One shoe"
+    },
+    {
+      "timestamp": "2/22/2021 21:12:59",
+      "type": "Location",
+      "suggestion": "Secret layer"
+    },
+    {
+      "timestamp": "2/22/2021 21:13:05",
+      "type": "Location",
+      "suggestion": "Dungeon"
+    },
+    {
+      "timestamp": "2/23/2021 15:21:19",
+      "type": "Object",
+      "suggestion": "Spoon"
+    },
+    {
+      "timestamp": "2/23/2021 15:21:29",
+      "type": "Location",
+      "suggestion": "Prison"
+    },
+    {
+      "timestamp": "2/23/2021 15:21:41",
+      "type": "Location",
+      "suggestion": "Secret lair"
+    },
+    {
+      "timestamp": "2/23/2021 15:21:52",
+      "type": "Feeling",
+      "suggestion": "Anxiety"
+    }
+  ]
